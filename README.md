@@ -11,22 +11,14 @@ This is a simple, responsive website for a fictional NGO called **HopeForAll**, 
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository or unzip the folder
 
-```bash
-git clone https://github.com/your-username/ngo-website.git
-cd ngo-website
-```
-
-Or simply extract the `ngo-website.zip`.
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Run the development server
+### 2. Run the development server
 
 ```bash
 npm start
@@ -73,4 +65,4 @@ This will generate static files in the `build/` folder.
 
 ## 📄 License
 
-This project is open-source and free to use. Modify it for your NGO or any non-commercial purpose.
+This project is open-source and free to use.
